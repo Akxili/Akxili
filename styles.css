@@ -1,6 +1,9 @@
 * {
   margin:0px;
   padding:0px;
+}
+
+body {
   background-color: lightblue;
   text-align: center;
 }
